@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GRUtils"
-  s.version      = "0.0.2"
+  s.version      = "0.0.4"
   s.summary      = "GRUtils"
 
   # This description is used to generate tags and improve search results.
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "GRUtils/Classes/**/*.{h,m}"
+  s.source_files  = "Classes/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
