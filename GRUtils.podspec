@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "这是我的一个工具集的仓库"
 
-  s.homepage     = "https://gitee.com/grxm/GRUtil"
+  s.homepage     = "https://github.com/GR-harry/GRUtils"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://gitee.com/grxm/GRUtil.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/GR-harry/GRUtils.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
